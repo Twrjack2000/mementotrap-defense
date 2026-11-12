@@ -1,0 +1,10 @@
+{
+  "name": "Memento-Trap™ Sentinel-Zero AI Defense",
+  "short_name": "Sentinel-Zero",
+  "description": "12-Vector AI & AGI Virus Defense Console, Kimwolf Streaming-Box Auditor & Unicode Worm Sanitizer for Windows, Mac, iPhone & iPad.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06080f",
+  "theme_color": "#10b981",
+  "orientation": "any"
+}
